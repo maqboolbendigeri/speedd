@@ -1,3 +1,4 @@
+import pytest
 from speedd import calculate_speed
 
 def test_speed():
